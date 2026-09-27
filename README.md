@@ -4,17 +4,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-patil-javadev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpatil181971@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-raja2151-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raja2151)
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🏢 Currently working as a **Programmer Analyst Trainee (Java Backend Developer)** at **Cognizant Technology Solutions** in Pune, Maharashtra.
-* ⚙️ Specializing in modernizing legacy enterprise integrations—migrating **Apache Camel** routing architectures into scalable, cloud-ready **Spring Boot** microservices.
-* 🚀 Experienced in designing fault-tolerant **REST APIs**, high-throughput data pipelines, and responsive **React.js** dashboards backed by **MySQL** and **MongoDB**.
-* 🎓 Hold a **Bachelor of Engineering in Computer Engineering** (CGPA: 8.07/10) from Dr. D.Y. Patil College of Engineering and Innovation and a **Diploma in Computer Engineering** (85.60%) from Pimpri Chinchwad Polytechnic.
-* 🏆 Certified as an **Anthropic Claude Certified Developer (Foundations)** and trained in **Java Full Stack Development with React** (Seven Mentor Pvt. Ltd. & Spoken Tutorial, IIT Bombay).
+* 🏢 **Programmer Analyst Trainee (Java Backend Developer)** at **Cognizant Technology Solutions** in Pune, Maharashtra.
+* ⚙️ Experienced in modernizing legacy enterprise systems by migrating **Apache Camel** components into scalable **Spring Boot** microservices.
+* 🔗 Skilled in designing secure **REST APIs**, integrating relational (**MySQL**) and NoSQL (**MongoDB**) databases, and building interactive **React.js** frontends.
+* 🎓 **B.E. in Computer Engineering** (CGPA: 8.07/10) from Dr. D.Y. Patil College of Engineering and Innovation & **Diploma in Computer Engineering** (85.60%) from Pimpri Chinchwad Polytechnic.
+* 📜 **Certifications:** Claude Certified Developer – Foundations (Anthropic) | Java Full Stack Development with React (Seven Mentor Pvt. Ltd. & Spoken Tutorial, IIT Bombay).
 
 ---
 
@@ -57,19 +56,31 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+### 💼 Key Projects & Architecture Highlights
 
-### 🌟 Featured Engineering Highlights
+* **NeMo – Deutsche Telekom (B2B Sales & Mobile Solution)** | *Java, Spring Boot, Spring Data JPA, Hibernate, MongoDB, REST APIs*
+  * Spearheaded the migration of legacy Apache Camel routing logic into native Spring Boot microservices, eliminating framework overhead and optimizing enterprise data pipeline efficiency.
+  * Modernized backend logic and data access layers using Spring Data JPA and Hibernate for scalable B2B sales and mobile contract service delivery.
+  * Designed secure REST APIs to interface between relational databases, MongoDB, and core platform modules.
 
-* 🤖 **Camel Migrator AI (Cognizant Hackathon)**: Built a fault-tolerant, AI-powered migration platform using **Spring Boot, React, MySQL, and the Google Gemini API** that parses legacy Apache Camel XML routes, performs architectural risk profiling, and automatically generates native multi-module Spring Boot code.
-* ⚡ **GridInsight (Smart Grid & Renewable Energy Analytics)**: Engineered asynchronous **Java Spring Boot** backend services for 24-hour day-ahead load forecasting and month-ahead generation analytics, paired with an interactive **React** dashboard featuring custom **Axios JWT interceptors** and real-time deficit visualization bands.
-* 📡 **NeMo – Enterprise B2B Sales & Mobile Solution (Deutsche Telekom)**: Spearheaded the migration of legacy Apache Camel routing logic into native **Spring Boot microservices**, modernizing data access layers with **Spring Data JPA, Hibernate, and MongoDB** to optimize enterprise data pipeline efficiency.
-* 🐾 **Wild Animal Detection & Alert System**: Architected a real-time computer vision pipeline using **Python and R-CNN** integrated with **Firebase Cloud Messaging (FCM)** and **MySQL** for automated wildlife classification and instant alert dispatching.
+* **Camel Migrator AI (Cognizant Hackathon)** | *Spring Boot, React, MySQL, Google Gemini API*
+  * Built an AI-powered migration web application to convert legacy Apache Camel XML routes into modern Spring Boot architecture.
+  * Engineered automated XML parsing, architectural risk profiling, and AI-driven generation of native multi-module Spring Boot code.
+
+* **GridInsight (Smart Grid & Renewable Energy Analytics)** | *Java, Spring Boot, React, Axios*
+  * Engineered backend services using Spring Boot and asynchronous background threads for 24-hour day-ahead load forecasting and month-ahead generation analytics.
+  * Developed interactive React dashboards featuring custom Axios JWT interceptors, dynamic grid hierarchy tree views, and real-time deficit visualization bands.
+
+* **Wild Animal Detection & Alert System** | *Python, R-CNN, Firebase, MySQL*
+  * Architected an object detection pipeline using R-CNN to classify and locate wildlife in video streams.
+  * Integrated Firebase Cloud Messaging (FCM) for real-time alert notifications and MySQL for logging detection timestamps and metadata.
+
+* **Banking Management System** | *Java, JDBC, MySQL*
+  * Engineered a secure financial backend using Core Java, OOP principles, and JDBC `PreparedStatement` objects to process banking operations and prevent SQL injection.
 
 ---
 
-
-
-### 📫 Connect With Me
+### 📫 Contact & Links
 
 * **LinkedIn:** [linkedin.com/in/raj-patil-javadev](https://linkedin.com/in/raj-patil-javadev)
 * **Email:** [rajpatil181971@gmail.com](mailto:rajpatil181971@gmail.com)
